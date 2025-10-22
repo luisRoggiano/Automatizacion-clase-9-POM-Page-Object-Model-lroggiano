@@ -32,7 +32,6 @@
 #     login_saucedemo( driver )
 
 #     products = driver.find_elements(By.CLASS_NAME, 'inventory_item')
-#     # total_productos = len(products)
 #     assert len(products) > 0
 
 #     products[0].find_element(By.TAG_NAME, 'button').click()
